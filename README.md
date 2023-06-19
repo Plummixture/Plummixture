@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python as my first programming language
 - 📫 Here are my socials ...
 - Instagram - @plummixture
-- Discord - Déjà Vu#9368
+- Discord - plummixture
 
 <!---
 Plummixture/Plummixture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
