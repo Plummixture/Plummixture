@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Plummixture
+- 👋 Yo, I’m @Plummixture
 - 👀 I’m a 17 year old aspriring programmer
-- 🌱 I’m currently learning python as my first programming language
 - 📫 Here are my socials ...
 - Instagram - @plummixture
 - Discord - plummixture
