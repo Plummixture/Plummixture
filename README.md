@@ -1,6 +1,4 @@
-- 👋 Yo, I’m @Plummixture
-- 👀 I’m a 17 year old aspriring programmer
-- 📫 Here are my socials ...
+- Poopity Scoop
 - Instagram - @plummixture
 - Discord - plummixture
 
